@@ -1,7 +1,7 @@
 # Site settings
-title: INSTEAD Manager
+title: InsteadMan
 email: jhekasoft@gmail.com
-description: INSTED Manager for games
+description: InsteadMan is manager for INSTEAD games
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://instead.club" # the base hostname & protocol for your site
 twitter_username: jhekasoft

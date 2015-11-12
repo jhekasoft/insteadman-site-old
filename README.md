@@ -1,2 +1,2 @@
-# instead-manager
-Site for INSTEAD Manager
+# InsteadMan
+Site for InsteadMan
