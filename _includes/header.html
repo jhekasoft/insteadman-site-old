@@ -7,30 +7,29 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a>
+            <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                {% comment %}<li class="active"><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>{% endcomment %}
-                <li><a href="http://instead.syscall.ru">INSTEAD</a></li>
-                <li><a href="http://instead.syscall.ru/talk/index.php/175-instead-manager/last">Обсуждение</a></li>
-                <li><a href="https://github.com/jhekasoft/insteadman">GitHub</a></li>
-                <li class="{% if page.id == 'about' %}active{% endif %}"><a href="{{ "/about" | prepend: site.baseurl }}">О проекте</a></li>
-                <li class="{% if page.id == 'instead-manager-1' %}active{% endif %}"><a href="{{ "/instead-manager-1" | prepend: site.baseurl }}">Старая версия</a></li>
-                {% comment %}
+                {% comment %}<li class="active"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>{% endcomment %}
+                <li class="{% if page.id == 'about' %}active{% endif %}"><a href="{{ '/about' | prepend: site.baseurl }}">О проекте</a></li>
+
+
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Другое <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Action</a></li>
-                        <li><a href="#">Another action</a></li>
-                        <li><a href="#">Something else here</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li class="dropdown-header">Nav header</li>
-                        <li><a href="#">Separated link</a></li>
-                        <li><a href="#">One more separated link</a></li>
+                        <li><a href="http://instead.syscall.ru">INSTEAD</a></li>
+                        <li><a href="http://instead.syscall.ru/talk/index.php/175-instead-manager/last">Обсуждение</a></li>
+                        <li><a href="https://github.com/jhekasoft/insteadman">GitHub</a></li>
+                        <li class="{% if page.id == 'instead-manager-1' %}active{% endif %}"><a href="{{ '/instead-manager-1' | prepend: site.baseurl }}">Старая версия</a></li>
+                        {% comment %}
+                            <li role="separator" class="divider"></li>
+                            <li class="dropdown-header">Nav header</li>
+                            <li><a href="#">Separated link</a></li>
+                            <li><a href="#">One more separated link</a></li>
+                        {% endcomment %}
                     </ul>
                 </li>
-                {% endcomment %}
             </ul>
         </div>
     </div>
