@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Об InsteadMan
-permalink: /about/
 id: about
 ---
 
@@ -14,4 +12,4 @@ InsteadMan — это кросплатформенное приложение д
 
 ![InsteadMan](/assets/img/logo/instead-manager.png "InsteadMan logo"){: .img-responsive .center-block}
 
-![InsteadMan](/assets/img/screenshot/insteadman-screenshot-2.png "InsteadMan"){: .img-responsive .center-block}
+![InsteadMan](/assets/img/screenshot/insteadman-2-ru.png "InsteadMan"){: .img-responsive .center-block}
