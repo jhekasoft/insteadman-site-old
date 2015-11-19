@@ -22,7 +22,7 @@ t:
     linuxDownloadText: Presented by archive with binaries. Please select proper archive for your OS. Then run <strong>./insteadman</strong>.<br>You should have installed <strong>INSTEAD</strong>.
     download: Download
     result: Result
-    resultText: You able to install and play games easy!
+    resultText: You are able to install and play games easy!
   ru:
     about: О проекте
     other: Другое
