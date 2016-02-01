@@ -23,6 +23,7 @@ t:
     download: Download
     result: Result
     resultText: You are able to install and play games easy!
+    siteSupport: Site support
   ru:
     about: О проекте
     other: Другое
@@ -37,6 +38,7 @@ t:
     download: Загрузить
     result: Итог
     resultText: Вы сможете легко устанавливать и запускать игры!
+    siteSupport: Поддержка сайта
 
 
 # Build settings
