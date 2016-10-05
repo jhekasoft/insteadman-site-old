@@ -10,7 +10,7 @@ InsteadMan is crossplatform application for downloading and running [INSTEAD](ht
 
 Project is opensource and source code is available at [GitHub](https://github.com/jhekasoft/insteadman).
 
-Author's main site: [http://jhekasoft.net](http://jhekasoft.net).
+Author's site: [http://1000.tech](http://1000.tech).
 
 ![InsteadMan](/assets/img/logo/instead-manager.png "InsteadMan logo"){: .img-responsive .center-block}
 

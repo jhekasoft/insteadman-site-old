@@ -10,7 +10,7 @@ InsteadMan — это кросплатформенное приложение д
 
 Проект является opensource и исходый код доступен на [GitHub](https://github.com/jhekasoft/insteadman).
 
-Основной сайт автора: [http://jhekasoft.net](http://jhekasoft.net).
+Основной сайт авторов: [http://1000.tech](http://1000.tech).
 
 ![InsteadMan](/assets/img/logo/instead-manager.png "InsteadMan logo"){: .img-responsive .center-block}
 
