@@ -12,6 +12,6 @@ InsteadMan — это кросплатформенное приложение д
 
 Основной сайт авторов: [http://1000.tech](http://1000.tech).
 
-![InsteadMan](/assets/img/logo/instead-manager.png "InsteadMan logo"){: .img-responsive .center-block}
+![InsteadMan]({{ site.baseurl }}/assets/img/logo/instead-manager.png "InsteadMan logo"){: .img-responsive .center-block}
 
-![InsteadMan](/assets/img/screenshot/insteadman-2-ru.png "InsteadMan"){: .img-responsive .center-block}
+![InsteadMan]({{ site.baseurl }}/assets/img/screenshot/insteadman-2-ru.png "InsteadMan"){: .img-responsive .center-block}
