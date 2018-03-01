@@ -17,7 +17,7 @@ t:
     insteadmanSubtitle: Play text adventures for INSTEAD!
     installInsteadman: Install InsteadMan
     windowsDownloadText: Presented by <strong>exe</strong>-installation file. Just install and play.
-    windowsDownloadText2: Also available <a href="https://github.com/jhekasoft/insteadman/releases/download/v2.0.5/InsteadMan-2.0.5-Windows.zip">ZIP archive</a> (run <strong>insteadman.exe</strong>).
+    windowsDownloadText2: Also available <a href="https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-win-2.1.0-x86.zip">ZIP archive</a> (run <strong>insteadman.exe</strong>).
     macosDownloadText: Presented by <strong>dmg</strong> image. Open and drag it to the <strong>Applications</strong> folder.
     linuxDownloadText: Presented by archive with binaries. Please select proper archive for your OS. Then run <strong>./insteadman</strong>.<br>You should have installed <strong>INSTEAD</strong>.
     download: Download
@@ -32,7 +32,7 @@ t:
     insteadmanSubtitle: Играйте в текстовые приключения для INSTEAD!
     installInsteadman: Установите InsteadMan
     windowsDownloadText: В виде <strong>exe</strong>-установщика. Просто установите и запускайте.
-    windowsDownloadText2: Также доступен просто <a href="https://github.com/jhekasoft/insteadman/releases/download/v2.0.5/InsteadMan-2.0.5-Windows.zip">ZIP-архив</a> (запустите <strong>insteadman.exe</strong>).
+    windowsDownloadText2: Также доступен просто <a href="https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-win-2.1.0-x86.zip">ZIP-архив</a> (запустите <strong>insteadman.exe</strong>).
     macosDownloadText: В виде <strong>dmg</strong>-образа. Откройте и перетащите в папку с приложениями.
     linuxDownloadText: В виде архива с бинарниками. Выберети архив дя свой версии. Затем запустите <strong>./insteadman</strong>.<br>В системе должен быть установлен <strong>INSTEAD</strong>.
     download: Загрузить
