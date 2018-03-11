@@ -8,7 +8,18 @@ twitter_username: jhekasoft
 github_username:  jhekasoft
 githubUrl: https://github.com/jhekasoft/insteadman
 discussionUrl: http://instead-games.ru/forum/index.php?p=/discussion/175/instead-manager
+projectVersion: 2.1.0
 asset_version: 2
+
+downloads:
+  windows:
+    url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman-2.1.0.exe
+    archiveUrl: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-win-2.1.0-x86.zip
+  macos:
+    url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-2.1.0.dmg
+  linux:
+    url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman_2.1.0-x64.tar.gz
+    x86url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman_2.1.0-x86.tar.gz
 
 t:
   en:
