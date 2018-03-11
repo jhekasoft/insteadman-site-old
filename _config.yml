@@ -6,7 +6,8 @@ baseurl: "/insteadman" # the subpath of your site, e.g. /blog/
 url: "http://jhekasoft.github.io/insteadman/" # the base hostname & protocol for your site
 twitter_username: jhekasoft
 github_username:  jhekasoft
-githubPage: https://github.com/jhekasoft/insteadman
+githubUrl: https://github.com/jhekasoft/insteadman
+discussionUrl: http://instead-games.ru/forum/index.php?p=/discussion/175/instead-manager
 asset_version: 2
 
 t:
