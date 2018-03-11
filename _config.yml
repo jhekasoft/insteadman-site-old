@@ -34,7 +34,7 @@ t:
     windowsDownloadText: В виде <strong>exe</strong>-установщика. Просто установите и запускайте.
     windowsDownloadText2: Также доступен просто <a href="https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-win-2.1.0-x86.zip">ZIP-архив</a> (запустите <strong>insteadman.exe</strong>).
     macosDownloadText: В виде <strong>dmg</strong>-образа. Откройте и перетащите в папку с приложениями.
-    linuxDownloadText: В виде архива с бинарниками. Выберети архив дя свой версии. Затем запустите <strong>./insteadman</strong>.<br>В системе должен быть установлен <strong>INSTEAD</strong>.
+    linuxDownloadText: В виде архива с бинарниками. Выберите архив для своей версии. Затем запустите <strong>./insteadman</strong>.<br>В системе должен быть установлен <strong>INSTEAD</strong>.
     download: Загрузить
     result: Итог
     resultText: Вы сможете легко устанавливать и запускать игры!
