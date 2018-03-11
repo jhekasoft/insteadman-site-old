@@ -58,7 +58,7 @@ t:
     resultText: Вы сможете легко устанавливать и запускать игры!
     siteSupport: Поддержка сайта
     insteadSiteUrl: http://instead.syscall.ru/ru/index.html
-    releaseNotes: "<ul><li>Поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
+    releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
     allReleases: Все релизы
 
 # Build settings
