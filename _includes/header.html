@@ -19,8 +19,8 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ site.t[page.lang].other }} <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="{{ site.t[page.lang].insteadSiteUrl }}">INSTEAD</a></li>
-                        <li><a href="http://instead-games.ru/forum/index.php?p=/discussion/175/instead-manager">{{ site.t[page.lang].discussion }}</a></li>
-                        <li><a href="https://github.com/jhekasoft/insteadman">GitHub</a></li>
+                        <li><a href="{{ site.discussionUrl }}">{{ site.t[page.lang].discussion }}</a></li>
+                        <li><a href="{{ site.githubUrl }}">GitHub</a></li>
                         {% if page.lang == 'ru' %}
                             <li class="{% if page.id == 'instead-manager-1' %}active{% endif %}"><a href="{{ '/instead-manager-1' | prepend: page.l | prepend: site.baseurl }}">Старая версия</a></li>
                         {% endif %}
