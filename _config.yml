@@ -24,6 +24,7 @@ t:
     result: Result
     resultText: You are able to install and play games easy!
     siteSupport: Site support
+    insteadSiteUrl: http://instead.syscall.ru/index.html
   ru:
     about: О проекте
     other: Другое
@@ -39,6 +40,7 @@ t:
     result: Итог
     resultText: Вы сможете легко устанавливать и запускать игры!
     siteSupport: Поддержка сайта
+    insteadSiteUrl: http://instead.syscall.ru/ru/index.html
 
 
 # Build settings
