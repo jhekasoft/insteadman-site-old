@@ -8,8 +8,10 @@ twitter_username: jhekasoft
 github_username:  jhekasoft
 githubUrl: https://github.com/jhekasoft/insteadman
 discussionUrl: http://instead-games.ru/forum/index.php?p=/discussion/175/instead-manager
+releasesUrl: https://github.com/jhekasoft/insteadman/releases
 projectVersion: 2.1.0
-asset_version: 2
+lastReleaseDate: 2018-03-01
+asset_version: 3
 
 downloads:
   windows:
@@ -38,6 +40,8 @@ t:
     resultText: You are able to install and play games easy!
     siteSupport: Site support
     insteadSiteUrl: http://instead.syscall.ru/index.html
+    releaseNotes: "<ul><li>fixed bug where a game would not install and run on Windows OS;</li><li>changed games sorting: URQ-games at the end;</li><li>fixed other small bugs.</li></ul>"
+    allReleases: All releases
   ru:
     about: О проекте
     other: Другое
@@ -54,6 +58,8 @@ t:
     resultText: Вы сможете легко устанавливать и запускать игры!
     siteSupport: Поддержка сайта
     insteadSiteUrl: http://instead.syscall.ru/ru/index.html
+    releaseNotes: "<ul><li>Поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
+    allReleases: Все релизы
 
 # Build settings
 markdown: kramdown

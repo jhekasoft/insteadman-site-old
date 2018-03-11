@@ -29,3 +29,7 @@ $(document).ready(function() {
     $buttonEl.removeClass("btn-default");
     $buttonEl.addClass("btn-success");
 });
+
+$(".release-info-icon").click(function() {
+    $(".release-info").slideToggle();
+})

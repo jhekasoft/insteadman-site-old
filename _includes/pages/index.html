@@ -1,4 +1,13 @@
-<h1 class="media-heading">InsteadMan <small>{{ site.t[page.lang].insteadmanSubtitle }}</small> <small>v{{ site.projectVersion }}</small></h1>
+<h1 class="media-heading">InsteadMan
+  <small>{{ site.t[page.lang].insteadmanSubtitle }}</small>
+  <small>v{{ site.projectVersion }} <a class="glyphicon glyphicon-info-sign release-info-icon" href="#"></a></small>
+</h1>
+
+<div class="panel panel-info release-info">
+  <div class="panel-heading"><h3 class="panel-title">{{ site.lastReleaseDate }}</h3></div>
+  <div class="panel-body">{{ site.t[page.lang].releaseNotes }}</div>
+</div>
+
 <p><img class="img-responsive center-block" src="{{ site.baseurl }}{{ '/assets/img/screenshot/insteadman-2-' }}{{ page.lang }}{{ '.png' }}" alt="InsteadMan"></p>
 
 <hr class="featurette-divider">
@@ -36,6 +45,8 @@
         </p>
     </div><!-- /.col-lg-4 -->
 </div><!-- /.row -->
+
+<p class="text-center"><a href="{{ site.releasesUrl }}">{{ site.t[page.lang].allReleases }}</a></p>
 
 <hr class="featurette-divider">
 

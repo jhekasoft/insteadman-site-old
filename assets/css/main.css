@@ -97,6 +97,17 @@ body {
   letter-spacing: -1px;
 }
 
+/* Release info
+------------------------- */
+
+.release-info-icon:hover, .release-info-icon:focus {
+  text-decoration: none;
+}
+
+.release-info {
+  display: none;
+}
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
