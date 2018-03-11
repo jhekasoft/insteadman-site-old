@@ -12,7 +12,7 @@
         <p><a class="btn btn-default btn-download-windows"
               href="{{ site.downloads.windows.url }}"
               role="button">{{ site.t[page.lang].download }} &raquo;</a></p>
-        <p>{{ site.t[page.lang].windowsDownloadText2 }}</p>
+        <p>{{ site.t[page.lang].windowsDownloadText2 | replace:'_downloadUrl_',site.downloads.windows.archiveUrl }}</p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
         <img src="{{ '/assets/img/logo/macosx.png' | prepend: site.baseurl }}" alt="macOS" width="140" height="140">
@@ -25,7 +25,7 @@
     <div class="col-lg-4">
         <img src="{{ '/assets/img/logo/gnulinux.png' | prepend: site.baseurl }}" alt="GNU/Linux" width="140" height="140">
         <h2>GNU/Linux</h2>
-        <p>{{ site.t[page.lang].linuxDownloadText }}</p>
+        <p>{{ site.t[page.lang].linuxDownloadText | replace:'_insteadUrl_',site.t[page.lang].insteadSiteUrl }}</p>
         <p>
             <a class="btn btn-default btn-download-gnulinux"
                href="{{ site.downloads.linux.url }}"
