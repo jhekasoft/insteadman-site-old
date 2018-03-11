@@ -6,9 +6,9 @@ id: about
 About InsteadMan
 ================
 
-InsteadMan is crossplatform application for downloading and running [INSTEAD](http://instead.syscall.ru/)-platform games. 
+InsteadMan is crossplatform application for downloading and running [INSTEAD]({{ site.t[page.lang].insteadSiteUrl }})-platform games. 
 
-Project is opensource and source code is available at [GitHub](https://github.com/jhekasoft/insteadman).
+Project is opensource and source code is available at [GitHub]({{ site.githubPage }}).
 
 ![InsteadMan]({{ site.baseurl }}/assets/img/logo/instead-manager.png "InsteadMan logo"){: .img-responsive .center-block}
 
