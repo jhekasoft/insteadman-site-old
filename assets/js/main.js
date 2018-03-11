@@ -30,6 +30,6 @@ $(document).ready(function() {
     $buttonEl.addClass("btn-success");
 });
 
-$(".release-info-icon").click(function() {
+$(".release-info-icon, .release-info-close").click(function() {
     $(".release-info").slideToggle();
 })

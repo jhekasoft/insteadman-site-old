@@ -6,6 +6,12 @@ body {
   padding-bottom: 40px;
   color: #5a5a5a;
   font-family: 'Comfortaa', cursive;
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e7f4fd+0,f2f8fc+6&1+0,0+16 */
+  background: -moz-linear-gradient(top, rgba(231,244,253,1) 0%, rgba(242,248,252,0.63) 6%, rgba(242,248,252,0) 16%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(231,244,253,1) 0%,rgba(242,248,252,0.63) 6%,rgba(242,248,252,0) 16%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(231,244,253,1) 0%,rgba(242,248,252,0.63) 6%,rgba(242,248,252,0) 16%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7f4fd', endColorstr='#00f2f8fc',GradientType=0 ); /* IE6-9 */
 }
 
 
@@ -100,12 +106,20 @@ body {
 /* Release info
 ------------------------- */
 
+.release-info-icon {
+  display: none;
+}
+
 .release-info-icon:hover, .release-info-icon:focus {
   text-decoration: none;
 }
 
 .release-info {
   display: none;
+}
+
+.main-heading:hover .release-info-icon, .main-heading:focus .release-info-icon {
+  display: inline-block;
 }
 
 
