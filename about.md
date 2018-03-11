@@ -6,9 +6,9 @@ id: about
 Об InsteadMan
 =============
 
-InsteadMan — это кросплатформенное приложение для скачивания и запуска игр для платформы [INSTEAD](http://instead.syscall.ru/).
+InsteadMan — это кросплатформенное приложение для скачивания и запуска игр для платформы [INSTEAD]({{ site.t[page.lang].insteadSiteUrl }}).
 
-Проект является opensource и исходый код доступен на [GitHub](https://github.com/jhekasoft/insteadman).
+Проект является opensource и исходый код доступен на [GitHub]({{ site.githubPage }}).
 
 ![InsteadMan]({{ site.baseurl }}/assets/img/logo/instead-manager.png "InsteadMan logo"){: .img-responsive .center-block}
 
