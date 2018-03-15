@@ -25,6 +25,7 @@ downloads:
 
 t:
   en:
+    description: InsteadMan. Play text adventure games for INSTEAD!
     about: About
     other: Other
     discussion: Discussion
@@ -43,6 +44,7 @@ t:
     releaseNotes: "<ul><li>fixed bug where a game would not install and run on Windows OS;</li><li>changed games sorting: URQ-games at the end;</li><li>fixed other small bugs.</li></ul>"
     allReleases: All releases
   ru:
+    description: InsteadMan. Играйте в текстовые приключенческие игры для INSTEAD!
     about: О проекте
     other: Другое
     discussion: Обсуждение
