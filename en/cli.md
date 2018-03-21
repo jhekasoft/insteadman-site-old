@@ -1,7 +1,7 @@
 ---
 title: InsteadMan CLI
 id: cli
-ogImage: /assets/img/screenshot/cli-3_0_1-screenshot.png
+ogImage: assets/img/screenshot/cli-3_0_1-screenshot.png
 ---
 
 Insteadman CLI
