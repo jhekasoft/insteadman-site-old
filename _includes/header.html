@@ -13,7 +13,7 @@
             <ul class="nav navbar-nav">
                 {% comment %}<li class="active"><a href="{{ '/' | prepend: page.l | prepend: site.baseurl }}">Home</a></li>{% endcomment %}
                 <li class="{% if page.id == 'about' %}active{% endif %}"><a href="{{ '/about' | prepend: page.l | prepend: site.baseurl }}">{{ site.t[page.lang].about }}</a></li>
-
+                <li class="{% if page.id == 'cli' %}active{% endif %}"><a href="{{ '/cli' | prepend: page.l | prepend: site.baseurl }}" title="{{ site.t[page.lang].consoleApplication }}">CLI</a></li>
 
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ site.t[page.lang].other }} <span class="caret"></span></a>

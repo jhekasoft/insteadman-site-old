@@ -43,6 +43,7 @@ t:
     insteadSiteUrl: http://instead.syscall.ru/index.html
     releaseNotes: "<ul><li>fixed bug where a game would not install and run on Windows OS;</li><li>changed games sorting: URQ-games at the end;</li><li>fixed other small bugs.</li></ul>"
     allReleases: All releases
+    consoleApplication: Console application
   ru:
     description: InsteadMan. Играйте в текстовые приключенческие игры для INSTEAD!
     about: О проекте
@@ -62,6 +63,7 @@ t:
     insteadSiteUrl: http://instead.syscall.ru/ru/index.html
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
     allReleases: Все релизы
+    consoleApplication: Консольное приложение
 
 # Build settings
 markdown: kramdown
