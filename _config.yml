@@ -49,7 +49,7 @@ t:
     result: Result
     resultText: You are able to install and play games easy!
     siteSupport: Site support
-    insteadSiteUrl: http://instead.syscall.ru/index.html
+    insteadSiteUrl: http://instead-hub.github.io/en
     releaseNotes: "<ul><li>fixed bug where a game would not install and run on Windows OS;</li><li>changed games sorting: URQ-games at the end;</li><li>fixed other small bugs.</li></ul>"
     allReleases: All releases
     betaReleaseNotes: "<p>New lightweight version.</p>"
@@ -74,7 +74,7 @@ t:
     result: Итог
     resultText: Вы сможете легко устанавливать и запускать игры!
     siteSupport: Поддержка сайта
-    insteadSiteUrl: http://instead.syscall.ru/ru/index.html
+    insteadSiteUrl: http://instead-hub.github.io
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
     betaReleaseNotes: "<p>Новая легковесная версия.</p>"
     allReleases: Все релизы
