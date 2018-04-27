@@ -38,7 +38,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li class="{% if page.lang == 'en' %}active{% endif %}"><a href="{{ '/en' | prepend: site.baseurl }}{% if page.id != '' %}/{{ page.id }}{% endif %}">en</a></li>
                 <li class="{% if page.lang == 'ru' %}active{% endif %}"><a href="{{ '/' | prepend: site.baseurl }}{% if page.id != '' %}{{ page.id }}{% endif %}">ru</a></li>
-                <li class="{% if page.lang == 'ua' %}active{% endif %}"><a href="{{ '/uk' | prepend: site.baseurl }}{% if page.id != '' %}/с{{ page.id }}{% endif %}">ua</a></li>
+                <li class="{% if page.lang == 'ua' %}active{% endif %}"><a href="{{ '/uk' | prepend: site.baseurl }}{% if page.id != '' %}/{{ page.id }}{% endif %}">ua</a></li>
                 <li>&nbsp;</li>
             </ul>
         </div>
