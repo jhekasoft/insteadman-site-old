@@ -13,6 +13,7 @@
             <ul class="nav navbar-nav">
                 {% comment %}<li class="active"><a href="{{ '/' | prepend: page.l | prepend: site.baseurl }}">Home</a></li>{% endcomment %}
                 <li class="{% if page.id == 'about' %}active{% endif %}"><a href="{{ '/about' | prepend: page.l | prepend: site.baseurl }}">{{ site.t[page.lang].about }}</a></li>
+                <li class="{% if page.id == 'beta' %}active{% endif %}"><a href="{{ '/beta' | prepend: page.l | prepend: site.baseurl }}">{{ site.t[page.lang].newVersion }}</a></li>
                 <li class="{% if page.id == 'cli' %}active{% endif %}"><a href="{{ '/cli' | prepend: page.l | prepend: site.baseurl }}" title="{{ site.t[page.lang].consoleApplication }}">CLI</a></li>
 
                 <li class="dropdown">
@@ -35,8 +36,8 @@
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
-                <li class="{% if page.lang == 'en' %}active{% endif %}"><a href="{{ '/en' | prepend: site.baseurl }}">en</a></li>
-                <li class="{% if page.lang == 'ru' %}active{% endif %}"><a href="{{ '/' | prepend: site.baseurl }}">ru</a></li>
+                <li class="{% if page.lang == 'en' %}active{% endif %}"><a href="{{ '/en' | prepend: site.baseurl }}{% if page.id != '' %}/{{ page.id }}{% endif %}">en</a></li>
+                <li class="{% if page.lang == 'ru' %}active{% endif %}"><a href="{{ '/' | prepend: site.baseurl }}{% if page.id != '' %}{{ page.id }}{% endif %}">ru</a></li>
                 <li>&nbsp;</li>
             </ul>
         </div>
