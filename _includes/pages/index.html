@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<p><a href="#download"><img class="img-responsive center-block" src="{{ site.baseurl }}{{ '/assets/img/screenshot/insteadman-2-' }}{{ page.lang }}{{ '.png' }}" alt="InsteadMan"></a></p>
+<p><a href="#download"><img class="img-responsive center-block" src="{{ site.baseurl }}{{ '/assets/img/screenshot/insteadman-2-' }}{% if page.lang == 'ru' %}{{ 'ru' }}{% else %}{{ 'en' }}{% endif %}{{ '.png' }}" alt="InsteadMan"></a></p>
 
 <hr class="featurette-divider">
 
