@@ -85,20 +85,20 @@ t:
     about: Про проект
     other: Інше
     discussion: Обговорювання
-    toUp: Вверх
+    toUp: Вгору
     insteadmanSubtitle: Грайте у текстові пригоди для INSTEAD!
     installInsteadman: Встановлюйте InsteadMan!
     windowsDownloadText: У вигляді <strong>exe</strong>-встановлювача. Просто встановить та запускайте.
-    windowsDownloadText2: Також є просто <a href="_downloadUrl_">ZIP-архив</a> (запустить <strong>insteadman.exe</strong>).
+    windowsDownloadText2: Також є просто <a href="_downloadUrl_">ZIP-архів</a> (запустить <strong>insteadman.exe</strong>).
     macosDownloadText: У вигляді <strong>dmg</strong>-образа. Відкрийте та перетягнить до директорії з додатками.
-    linuxDownloadText: У вигляді архіваз бінарником. Оберить архві для свої версії. Потім виконайте <strong>./insteadman</strong>.<br>У системі має бути встановлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> додаток.
+    linuxDownloadText: У вигляді архіва з бінарником. Оберить архів для свої версії. Потім виконайте <strong>./insteadman</strong>.<br>У системі має бути встановлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> додаток.
     betaWindowsDownloadText2: Також є просто <a href="_downloadUrl_">ZIP-архів</a> (запустіть <strong>insteadman-gtk.exe</strong>).
-    betaMacosDownloadText: Поки є тільки <a href="_downloadUrl_">ісходники</a>. Пакет буде скоро.
-    betaLinuxDownloadText: У вигляді архиви з бінарниками. Оберить архів для своєї версії. Потім запустить <strong>./insteadman-gtk</strong>.<br>У системі повинен бути встановлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> та <a href="https://www.gtk.org/">GTK+ 3 <span class="glyphicon glyphicon-link"></span></a>.
-    download: Загрузить
+    betaMacosDownloadText: Поки є тільки <a href="_downloadUrl_">ісходники</a>. Незабаром буде пакет.
+    betaLinuxDownloadText: У вигляді архіва з бінарниками. Оберить архів для своєї версії. Потім запустить <strong>./insteadman-gtk</strong>.<br>У системі повинен бути встановлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> та <a href="https://www.gtk.org/">GTK+ 3 <span class="glyphicon glyphicon-link"></span></a>.
+    download: Завантажити
     result: Підсумок
     resultText: Ви можете легко встановлювати та запускати ігри!
-    siteSupport: Поддержка сайта
+    siteSupport: Підтримка сайта
     insteadSiteUrl: http://instead-hub.github.io
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
     betaReleaseNotes: "<p>Новая легковесная версия.</p>"
