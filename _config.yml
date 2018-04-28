@@ -96,8 +96,8 @@ t:
     betaMacosDownloadText: Поки є тільки <a href="_downloadUrl_">ісходники</a>. Пакет буде скоро.
     betaLinuxDownloadText: У вигляді архиви з бінарниками. Оберить архів для своєї версії. Потім запустить <strong>./insteadman-gtk</strong>.<br>У системі повинен бути встановлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> та <a href="https://www.gtk.org/">GTK+ 3 <span class="glyphicon glyphicon-link"></span></a>.
     download: Загрузить
-    result: Итог
-    resultText: Вы сможете легко устанавливать и запускать игры!
+    result: Підсумок
+    resultText: Ви можете легко встановлювати та запускати ігри!
     siteSupport: Поддержка сайта
     insteadSiteUrl: http://instead-hub.github.io
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
