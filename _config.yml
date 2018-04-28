@@ -55,6 +55,7 @@ t:
     betaReleaseNotes: "<p>New lightweight version.</p>"
     consoleApplication: Console application
     newVersion: New version
+    screenshots: Screenshots
   ru:
     description: InsteadMan. Играйте в текстовые приключенческие игры для INSTEAD!
     about: О проекте
@@ -80,6 +81,7 @@ t:
     allReleases: Все релизы
     consoleApplication: Консольное приложение
     newVersion: Новая версия
+    screenshots: Скриншоты
   uk:
     description: InsteadMan. Грайте в текстові пригоди для INSTEAD!
     about: Про проект
@@ -105,6 +107,7 @@ t:
     allReleases: Усі релізи
     consoleApplication: Консольний додаток
     newVersion: Нова версія
+    screenshots: Скріншоти
 
 # Build settings
 markdown: kramdown
