@@ -103,7 +103,7 @@ t:
     siteSupport: Підтримка сайта
     insteadSiteUrl: http://instead-hub.github.io
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
-    betaReleaseNotes: "<p>Новая легковесная версия.</p>"
+    betaReleaseNotes: "<p>Нова легковісна версія.</p>"
     allReleases: Усі релізи
     consoleApplication: Консольний додаток
     newVersion: Нова версія
