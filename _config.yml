@@ -3,7 +3,7 @@ title: InsteadMan
 email: jhekasoft@gmail.com
 description: InsteadMan is manager for INSTEAD games
 baseurl: "/insteadman" # the subpath of your site, e.g. /blog/
-url: "http://jhekasoft.github.io/insteadman/" # the base hostname & protocol for your site
+url: "http://jhekasoft.github.io" # the base hostname & protocol for your site
 twitter_username: jhekasoft
 github_username:  jhekasoft
 githubUrl: https://github.com/jhekasoft/insteadman3
