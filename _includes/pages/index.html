@@ -33,7 +33,9 @@
     <div class="col-lg-4">
         <img src="{{ '/assets/img/logo/macosx.png' | prepend: site.baseurl }}" alt="macOS" width="140" height="140">
         <h2>macOS</h2>
-        <p>{{ site.t[page.lang].betaMacosDownloadText | replace:'_downloadUrl_',site.betaReleasesUrl }}</p>
+        <p>{{ site.t[page.lang].betaMacosDownloadText | replace:'_brewUrl_',site.homebrewUrl }}</p>
+        <code>brew install jhekasoft/insteadman/insteadman</code>
+        <p>{{ site.t[page.lang].betaMacosDownloadText2 }}</p>
         <!--<p><a class="btn btn-default btn-download-macosx"
               href="{{ site.betaReleasesUrl }}"
               role="button">{{ site.t[page.lang].download }} &raquo;</a></p>-->
