@@ -45,7 +45,7 @@ t:
     linuxDownloadText: Presented by archive with binaries. Please select proper archive for your OS. Then run <strong>./insteadman</strong>.<br>You should have installed <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a>.
     betaWindowsDownloadText2: Also available <a href="_downloadUrl_">ZIP archive</a> (run <strong>insteadman-gtk.exe</strong>).
     betaMacosDownloadText: "Using <a href=\"_brewUrl_\">Homebrew</a>:"
-    betaMacosDownloadText2: The package will be soon.
+    betaMacosDownloadText2: The dmg-package will be soon.
     betaLinuxDownloadText: Presented by archive with binaries. Please select proper archive for your OS. Then run <strong>./insteadman-gtk</strong>.<br>You should have installed <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> and <a href="https://www.gtk.org/">GTK+ 3 <span class="glyphicon glyphicon-link"></span></a>.
     download: Download
     result: Result
@@ -72,7 +72,7 @@ t:
     linuxDownloadText: В виде архива с бинарниками. Выберите архив для своей версии. Затем запустите <strong>./insteadman</strong>.<br>В системе должен быть установлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a>.
     betaWindowsDownloadText2: Также доступен просто <a href="_downloadUrl_">ZIP-архив</a> (запустите <strong>insteadman-gtk.exe</strong>).
     betaMacosDownloadText: "С помощью <a href=\"_brewUrl_\">Homebrew</a>:"
-    betaMacosDownloadText2: Пакет будет скоро.
+    betaMacosDownloadText2: Также скоро будет dmg-пакет.
     betaLinuxDownloadText: В виде архива с бинарниками. Выберите архив для своей версии. Затем запустите <strong>./insteadman-gtk</strong>.<br>В системе должен быть установлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> и <a href="https://www.gtk.org/">GTK+ 3 <span class="glyphicon glyphicon-link"></span></a>.
     download: Загрузить
     result: Итог
@@ -99,7 +99,7 @@ t:
     linuxDownloadText: У вигляді архіва з бінарником. Оберить архів для свої версії. Потім виконайте <strong>./insteadman</strong>.<br>У системі має бути встановлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> додаток.
     betaWindowsDownloadText2: Також є просто <a href="_downloadUrl_">ZIP-архів</a> (запустіть <strong>insteadman-gtk.exe</strong>).
     betaMacosDownloadText: "За допомогою <a href=\"_brewUrl_\">Homebrew</a>:"
-    betaMacosDownloadText2: Незабаром буде пакет.
+    betaMacosDownloadText2: Такой незабаром буде dmg-пакет.
     betaLinuxDownloadText: У вигляді архіва з бінарниками. Оберить архів для своєї версії. Потім запустить <strong>./insteadman-gtk</strong>.<br>У системі повинен бути встановлен <a href="_insteadUrl_">INSTEAD <span class="glyphicon glyphicon-link"></span></a> та <a href="https://www.gtk.org/">GTK+ 3 <span class="glyphicon glyphicon-link"></span></a>.
     download: Завантажити
     result: Підсумок
