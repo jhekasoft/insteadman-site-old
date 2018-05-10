@@ -12,7 +12,7 @@ releasesUrl: https://github.com/jhekasoft/insteadman/releases
 projectVersion: 2.1.0
 lastReleaseDate: 2018-03-01
 betaReleasesUrl: https://github.com/jhekasoft/insteadman3/releases
-betaProjectVersion: 3.0.8
+betaProjectVersion: 3.0.10
 betaLastReleaseDate: 2018-04-29
 homebrewUrl: https://brew.sh
 asset_version: 5
@@ -21,14 +21,14 @@ downloads:
   windows:
     url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman-2.1.0.exe
     archiveUrl: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-win-2.1.0-x86.zip
-    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.5/insteadman-windows-setup-3.0.5.exe
-    betaArchiveUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.5/insteadman-gtk-windows-386-3.0.5.zip
+    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.10/insteadman-windows-setup-3.0.10.exe
+    betaArchiveUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.10/insteadman-gtk-windows-386-3.0.10.zip
   macos:
     url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-2.1.0.dmg
   linux:
     url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman_2.1.0-x64.tar.gz
     x86url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman_2.1.0-x86.tar.gz
-    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.5/insteadman-gtk-linux-amd64-3.0.5.tar.gz
+    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.10/insteadman-gtk-linux-amd64-3.0.10.tar.gz
 
 t:
   en:
