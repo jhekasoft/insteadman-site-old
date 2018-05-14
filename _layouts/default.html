@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.t[page.lang].description }}{% endif %}" />
-    <meta property="og:image" content="{{ site.url }}{% if page.title %}{{ page.ogImage }}{% else %}assets/img/logo/instead-manager.png{% endif %}" />
+    <meta property="og:image" content="{{ site.url }}/{% if page.ogImage %}{{ page.ogImage }}{% else %}assets/img/logo/instead-manager.png{% endif %}" />
     <meta name="theme-color" content="#222">
     <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
 
