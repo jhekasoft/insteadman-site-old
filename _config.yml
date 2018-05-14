@@ -12,8 +12,8 @@ releasesUrl: https://github.com/jhekasoft/insteadman/releases
 projectVersion: 2.1.0
 lastReleaseDate: 2018-03-01
 betaReleasesUrl: https://github.com/jhekasoft/insteadman3/releases
-betaProjectVersion: 3.0.10
-betaLastReleaseDate: 2018-04-29
+betaProjectVersion: 3.1.0
+betaLastReleaseDate: 2018-05-14
 homebrewUrl: https://brew.sh
 asset_version: 5
 
@@ -21,14 +21,14 @@ downloads:
   windows:
     url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman-2.1.0.exe
     archiveUrl: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-win-2.1.0-x86.zip
-    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.10/insteadman-windows-setup-3.0.10.exe
-    betaArchiveUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.10/insteadman-gtk-windows-386-3.0.10.zip
+    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.0/insteadman-windows-setup-3.1.0.exe
+    betaArchiveUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.0/insteadman-gtk-windows-386-3.1.0.zip
   macos:
     url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/InsteadMan-2.1.0.dmg
   linux:
     url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman_2.1.0-x64.tar.gz
     x86url: https://github.com/jhekasoft/insteadman/releases/download/v2.1.0/insteadman_2.1.0-x86.tar.gz
-    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.0.10/insteadman-gtk-linux-amd64-3.0.10.tar.gz
+    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.0/insteadman-gtk-linux-amd64-3.1.0.tar.gz
 
 t:
   en:
@@ -54,7 +54,7 @@ t:
     insteadSiteUrl: http://instead-hub.github.io/en
     releaseNotes: "<ul><li>fixed bug where a game would not install and run on Windows OS;</li><li>changed games sorting: URQ-games at the end;</li><li>fixed other small bugs.</li></ul>"
     allReleases: All releases
-    betaReleaseNotes: "<p>New lightweight version.</p>"
+    betaReleaseNotes: "<ul><li>add Settings dialog</li><li>add sorting by date</li><li>add game updating</li></ul>"
     consoleApplication: Console application
     newVersion: New version
     screenshots: Screenshots
@@ -80,7 +80,7 @@ t:
     siteSupport: Поддержка сайта
     insteadSiteUrl: http://instead-hub.github.io
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
-    betaReleaseNotes: "<p>Новая легковесная версия.</p>"
+    betaReleaseNotes: "<ul><li>добавлены настройки</li><li>добавлена сортировка по дате</li><li>добавлено обновление игр</li></ul>"
     allReleases: Все релизы
     consoleApplication: Консольное приложение
     newVersion: Новая версия
@@ -107,7 +107,7 @@ t:
     siteSupport: Підтримка сайта
     insteadSiteUrl: http://instead-hub.github.io
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
-    betaReleaseNotes: "<p>Нова легковісна версія.</p>"
+    betaReleaseNotes: "<ul><li>додані налаштування</li><li>додано сортування за датою</li><li>додано оновлення ігор</li></ul>"
     allReleases: Усі релізи
     consoleApplication: Консольний додаток
     newVersion: Нова версія

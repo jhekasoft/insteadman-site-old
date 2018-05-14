@@ -12,7 +12,7 @@ InsteadMan — это кросплатформенное приложение д
 
 ![InsteadMan]({{ site.baseurl }}/assets/img/logo/instead-manager.png "InsteadMan logo"){: .img-responsive .center-block}
 
-![InsteadMan]({{ site.baseurl }}/assets/img/screenshot/gtk-3_0_4-macos-screenshot.png "InsteadMan"){: .img-responsive .center-block}
+![InsteadMan]({{ site.baseurl }}/assets/img/screenshot/gtk-3_1_0-macos-screenshot.png "InsteadMan"){: .img-responsive .center-block}
 
 ![InsteadMan]({{ site.baseurl }}/assets/img/screenshot/gtk-3_0_4-gnulinux-dark-screenshot.png "InsteadMan"){: .img-responsive .center-block}
 
