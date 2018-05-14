@@ -7,8 +7,9 @@ ogImage: assets/img/screenshot/cli-3_0_2-screenshot.png
 Insteadman CLI
 ==============
 
-InsteadMan 3 рулить!
-You can download it [here](https://github.com/jhekasoft/insteadman3/releases) for your operation system.
+Ви можете завантажити консольну верію для вашої операційної системі [тут](https://github.com/jhekasoft/insteadman3/releases).
+
+Також консольна версія йде разом з GUI-версією якщо ви встановлюєте InsteadMan за допомогою AUR (ArchLinux) чи homebrew (macOS).
 
 ![InsteadMan CLI]({{ site.baseurl }}/assets/img/screenshot/cli-3_0_2-screenshot.png "InsteadMan CLI"){: .img-responsive .center-block}
 

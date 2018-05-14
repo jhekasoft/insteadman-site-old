@@ -7,7 +7,9 @@ ogImage: assets/img/screenshot/cli-3_0_2-screenshot.png
 Insteadman CLI
 ==============
 
-Сейчас идёт разработка новой версии InsteadMan 3 на языке программирования Go. Уже сейчас доступна консольная версия. Скачать её для своей операционной системы вы можете [здесь](https://github.com/jhekasoft/insteadman3/releases).
+Скачать консольную версию для своей операционной системы вы можете [здесь](https://github.com/jhekasoft/insteadman3/releases).
+
+Также консольная версия идёт в комлекте с GUI-версией если вы устанавливаете InsteadMan через AUR (ArchLinux), либо через homebrew (macOS).
 
 ![InsteadMan CLI]({{ site.baseurl }}/assets/img/screenshot/cli-3_0_2-screenshot.png "InsteadMan CLI"){: .img-responsive .center-block}
 

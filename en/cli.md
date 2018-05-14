@@ -7,8 +7,9 @@ ogImage: assets/img/screenshot/cli-3_0_2-screenshot.png
 Insteadman CLI
 ==============
 
-InsteadMan 3 is developing now using Go language. CLI version is available right now.
-You can download it [here](https://github.com/jhekasoft/insteadman3/releases) for your operation system.
+You can download CLI version [here](https://github.com/jhekasoft/insteadman3/releases) for your operation system.
+
+CLI version also available with GUI-version if it has installed using AUR (ArchLinux) or homebrew (macOS).
 
 ![InsteadMan CLI]({{ site.baseurl }}/assets/img/screenshot/cli-3_0_2-screenshot.png "InsteadMan CLI"){: .img-responsive .center-block}
 
