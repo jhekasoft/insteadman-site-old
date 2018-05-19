@@ -33,12 +33,11 @@
     <div class="col-lg-4">
         <img src="{{ '/assets/img/logo/macosx.png' | prepend: site.baseurl }}" alt="macOS" width="140" height="140">
         <h2>macOS</h2>
-        <p>{{ site.t[page.lang].betaMacosDownloadText | replace:'_brewUrl_',site.homebrewUrl }}</p>
-        <code>brew install jhekasoft/insteadman/insteadman</code>
-        
         <p><a class="btn btn-default btn-download-macosx"
               href="https://github.com/jhekasoft/insteadman3/releases/download/v3.1.0/InsteadMan-3.1.0.dmg"
               role="button">{{ site.t[page.lang].download }} &raquo;</a></p>
+        <p>{{ site.t[page.lang].betaMacosDownloadText | replace:'_brewUrl_',site.homebrewUrl }}</p>
+        <code>brew install jhekasoft/insteadman/insteadman</code>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
         <img src="{{ '/assets/img/logo/gnulinux.png' | prepend: site.baseurl }}" alt="GNU/Linux" width="140" height="140">
