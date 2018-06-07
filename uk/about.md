@@ -1,9 +1,9 @@
 ---
-title: About InsteadMan
+title: Про InsteadMan
 id: about
 ---
 
-About InsteadMan
+Про InsteadMan
 ================
 
 InsteadMan — це кросплатформенний додаток для заватнтаження та запуску [INSTEAD]({{ site.t[page.lang].insteadSiteUrl }})-ігор. 
