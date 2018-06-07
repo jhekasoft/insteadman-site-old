@@ -15,7 +15,7 @@ betaReleasesUrl: https://github.com/jhekasoft/insteadman3/releases
 betaProjectVersion: 3.1.1
 betaLastReleaseDate: 2018-06-04
 homebrewUrl: https://brew.sh
-asset_version: 5
+asset_version: 6
 
 downloads:
   windows:
