@@ -12,8 +12,8 @@ releasesUrl: https://github.com/jhekasoft/insteadman2/releases
 projectVersion: 2.1.0
 lastReleaseDate: 2018-03-01
 betaReleasesUrl: https://github.com/jhekasoft/insteadman3/releases
-betaProjectVersion: 3.1.1
-betaLastReleaseDate: 2018-06-04
+betaProjectVersion: 3.1.2
+betaLastReleaseDate: 2018-06-13
 homebrewUrl: https://brew.sh
 asset_version: 6
 
@@ -21,15 +21,15 @@ downloads:
   windows:
     url: https://github.com/jhekasoft/insteadman2/releases/download/v2.1.0/insteadman-2.1.0.exe
     archiveUrl: https://github.com/jhekasoft/insteadman2/releases/download/v2.1.0/InsteadMan-win-2.1.0-x86.zip
-    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.1/insteadman-windows-setup-3.1.1.exe
-    betaArchiveUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.1/insteadman-gtk-windows-386-3.1.1.zip
+    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.2/insteadman-windows-setup-3.1.2.exe
+    betaArchiveUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.2/insteadman-gtk-windows-386-3.1.2.zip
   macos:
     url: https://github.com/jhekasoft/insteadman2/releases/download/v2.1.0/InsteadMan-2.1.0.dmg
-    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.1/InsteadMan-3.1.1.dmg
+    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.2/InsteadMan-3.1.2.dmg
   linux:
     url: https://github.com/jhekasoft/insteadman2/releases/download/v2.1.0/insteadman_2.1.0-x64.tar.gz
     x86url: https://github.com/jhekasoft/insteadman2/releases/download/v2.1.0/insteadman_2.1.0-x86.tar.gz
-    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.1/insteadman-gtk-linux-amd64-3.1.1.tar.gz
+    betaUrl: https://github.com/jhekasoft/insteadman3/releases/download/v3.1.2/insteadman-gtk-linux-amd64-3.1.2.tar.gz
 
 t:
   en:
@@ -55,7 +55,7 @@ t:
     insteadSiteUrl: http://instead-hub.github.io/en
     releaseNotes: "<ul><li>fixed bug where a game would not install and run on Windows OS;</li><li>changed games sorting: URQ-games at the end;</li><li>fixed other small bugs.</li></ul>"
     allReleases: All releases
-    betaReleaseNotes: "<ul><li>add some hotkeys on the menu</li><li>add progress while a game is installing</li><li>small fixes</li></ul>"
+    betaReleaseNotes: "<ul><li>added i18n (translates) for Russian, Ukrainian</li><li>fixed INSTEAD -> Browse... button in the Settings</li><li>other small fixes</li></ul>"
     consoleApplication: Console application
     newVersion: New version
     screenshots: Screenshots
@@ -81,7 +81,7 @@ t:
     siteSupport: Поддержка сайта
     insteadSiteUrl: http://instead-hub.github.io
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
-    betaReleaseNotes: "<ul><li>добавлены горячие клавиши в меню</li><li>добавлен прогресс установки игры</li><li>другие исправления</li></ul>"
+    betaReleaseNotes: "<ul><li>добавлены переводы для русского, украинского языков</li><li>исправлена кнопка INSTEAD -> Выбрать... в Настройках</li><li>другие небольшие исправления</li></ul>"
     allReleases: Все релизы
     consoleApplication: Консольное приложение
     newVersion: Новая версия
@@ -108,7 +108,7 @@ t:
     siteSupport: Підтримка сайта
     insteadSiteUrl: http://instead-hub.github.io
     releaseNotes: "<ul><li>поправлен баг, когда нельзя было установить и запустить игру на Windows;</li><li>изменена сортировка игр: игры URQ в конце;</li><li>поправлены другие незначительные баги.</li></ul>"
-    betaReleaseNotes: "<ul><li>додані гарячі клавіші у меню</li><li>додан прогрес встановлення гри</li><li>інші виправлення</li></ul>"
+    betaReleaseNotes: "<ul><li>додані переклади для російскої, української мови</li><li>виправлена кнопка INSTEAD -> Обрати... в Налаштуваннях</li><li>інші невеликі виправлення</li></ul>"
     allReleases: Усі релізи
     consoleApplication: Консольний додаток
     newVersion: Нова версія
