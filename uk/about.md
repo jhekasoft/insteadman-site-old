@@ -6,7 +6,7 @@ id: about
 Про InsteadMan
 ================
 
-InsteadMan — це кросплатформенний додаток для заватнтаження та запуску [INSTEAD]({{ site.t[page.lang].insteadSiteUrl }})-ігор. 
+InsteadMan — це кросплатформовий додаток для заватнтаження та запуску [INSTEAD]({{ site.t[page.lang].insteadSiteUrl }})-ігор. 
 
 Проєкт є відкритим та код доступний тут: [GitHub]({{ site.githubUrl }}).
 
